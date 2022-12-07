@@ -1,0 +1,31 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+nav {
+  width: 50%;
+  display: flex;  
+  justify-content: space-around;
+  align-items: center;
+}
+
+nav > a {
+  text-decoration: none;
+  color: #0060B6;
+  display: flex;
+  align-items: center;
+  height: 80%;
+  padding: 0 5px;
+}
+
+nav > a:hover {
+  background-color: gray;
+}
+
+@media screen and (max-width: 1250px) {
+  nav {
+    background-color: gray;
+  }
+}
