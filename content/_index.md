@@ -5,3 +5,13 @@ draft: true
 ---
 
 This is some example content for the home page
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+- list
+- another
+- item
