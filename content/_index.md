@@ -1,7 +1,7 @@
 ---
 title: "Home Page"
 date: 2022-12-02T15:51:47Z
-draft: true
+draft: false 
 ---
 
 # LCAS Team fOr Robocup (LCASTOR)
