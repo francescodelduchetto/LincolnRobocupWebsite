@@ -4,11 +4,16 @@ date: 2022-12-11T15:48:26Z
 draft: false 
 ---
 
-# Example members heading
 
-These are our members
+### Team Leader
+ - ??
 
-- Member 1
-- Member 2
-- Member 3
-- Member 4
+### Team Members
+ - Francesco Del Duchetto
+ - Riccardo Polvara
+ - Jacob Swindell
+
+
+### Advisory Board
+- Marc Hanheide
+- Elizabeth Sklar

@@ -6,17 +6,11 @@ draft: false
 
 # LCAS Team fOr Robocup (LCASTOR)
 
-## Example Heading
+## 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Sed eleifend pretium justo, a gravida sem finibus tempus. 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Phasellus scelerisque volutpat maximus.
-Donec pharetra in nisi a euismod.
-Morbi nisi ipsum, congue id lacinia sit amet, mollis eget tellus.
+The LCASTOR team is a team composed of researchers and students from the [Lincoln Centre for Autonomous Systems (L-CAS)](https://lcas.lincoln.ac.uk/) at the University of Lincoln (UK). The team participates to the RoboCup@HOME Open Platform League competitions. 
 
-![Robocup Award](https://lh4.googleusercontent.com/ipMdMnQN0jTiisrosDs189sK8FCs7A2d5GBBHN4W3z4HYKO93DT-I20QlRbPWK42k71K5dN_w9IKCZ3VX9IUPly0hu-ukfNAlgYIAtxLGEybRZ0DlQEgzW-pG2I8n3A_3ayDQa68_cmUkIxYC3m58LTRI0mLRzfF5l8=w1280)
+The LCASTOR team, was formed in 2022 building from the experience of L-CAS group members participation in previous competitions with the [SPQReL Team](https://sites.google.com/dis.uniroma1.it/spqrel/home).
 
-- list
-- another
-- item
+
+## New video goes here
