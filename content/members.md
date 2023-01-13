@@ -6,11 +6,16 @@ draft: false
 
 
 ### Team Leader
- - ??
+ - Francesco Del Duchetto
 
 ### Team Members
- - Francesco Del Duchetto
  - Riccardo Polvara
+ - Leonardo Guevara
+ - Matthew Story
+ - Karoline Heiwolt
+ - Nikolaus Wagner
+ - Alex Elias
+ - Luca Castri
  - Jacob Swindell
 
 
