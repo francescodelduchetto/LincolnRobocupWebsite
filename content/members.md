@@ -4,11 +4,21 @@ date: 2022-12-11T15:48:26Z
 draft: false 
 ---
 
-# Example members heading
 
-These are our members
+### Team Leader
+ - Francesco Del Duchetto
 
-- Member 1
-- Member 2
-- Member 3
-- Member 4
+### Team Members
+ - Riccardo Polvara
+ - Leonardo Guevara
+ - Matthew Story
+ - Karoline Heiwolt
+ - Nikolaus Wagner
+ - Alex Elias
+ - Luca Castri
+ - Jacob Swindell
+
+
+### Advisory Board
+- Marc Hanheide
+- Elizabeth Sklar
