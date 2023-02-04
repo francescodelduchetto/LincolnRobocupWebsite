@@ -1,11 +1,15 @@
 <!DOCTYPE html>
-<html>
-    {{- partial "head.html" . -}}
-    <body>
-        {{- partial "header.html" . -}}
-        <div id="content">
-        {{- block "main" . }}{{- end }}
+<html class="h-full bg-gray-100 font-serif">
+  {{- partial "head.html" . -}}
+  <body class="h-full">
+    <div class="min-h-full">
+      {{- partial "header.html" . -}}
+      <div id="content" class="grid justify-items-center">
+        <div class="w-11/12 pt-6 md:w-10/12 md:pt-8 lg:w-8/12 xl:w-7/12">
+          {{- block "main" . }}{{- end }}
         </div>
-        {{- partial "footer.html" . -}}
-    </body>
+      </div>
+      {{- partial "footer.html" . -}}
+    </div>
+  </body>
 </html>

@@ -3,12 +3,12 @@ title: "Members"
 date: 2022-12-11T15:48:26Z
 draft: false 
 ---
+# Team Members
 
-
-### Team Leader
+## Team Leader
  - Francesco Del Duchetto
 
-### Team Members
+## Team Members
  - Riccardo Polvara
  - Leonardo Guevara
  - Matthew Story
@@ -19,6 +19,6 @@ draft: false
  - Jacob Swindell
 
 
-### Advisory Board
+## Advisory Board
 - Marc Hanheide
 - Elizabeth Sklar

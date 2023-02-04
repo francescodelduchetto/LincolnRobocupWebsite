@@ -12,7 +12,7 @@ SPQReL team Robocup@HOME SPL - including Marc Hanheide and Francesco Del Duchett
 ## RoboCup 2017 - Nagoya, Japan. July 27-31, 2017.      
 SPQReL team Robocup@HOME SPL - including Marc Hanheide.
 ### Qualified 3rd place!!!  
-![certificate](./nagoya.png)
+![certificate](/nagoya.png)
 
 
 # Competitions Organised

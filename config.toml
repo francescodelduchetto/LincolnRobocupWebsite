@@ -1,4 +1,4 @@
-baseURL = '//jakeswin.github.io/lincolnrobocupwebsitetest.github.io/'
+baseURL = '//localhost'
 languageCode = 'en-gb'
 title = 'My New Hugo Site'
 theme = 'lincoln_robocup_theme'
