@@ -1,7 +1,6 @@
 ---
 title: "Software"
 date: 2023-01-10T15:41:46Z
-layout: single
 draft: false 
 ---
 
