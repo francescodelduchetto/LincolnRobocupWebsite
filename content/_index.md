@@ -6,7 +6,7 @@ draft: false
 
 # LCAS Team fOr Robocup (LCASTOR)
 
-## 
+![Team Logos](/LCASTOR_image.png)
 
 The LCASTOR team is a team composed of researchers and students from the [Lincoln Centre for Autonomous Systems (L-CAS)](https://lcas.lincoln.ac.uk/) at the University of Lincoln (UK). The team participates to the RoboCup@HOME Open Platform League competitions. 
 
