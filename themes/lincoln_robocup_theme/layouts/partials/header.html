@@ -30,6 +30,11 @@
             <a href="{{ .Site.BaseURL }}/robots">Our Robots</a>
           </p>
         </div>
+        <div class="inline px-3 py-2 rounded-md hover:bg-gray-700">
+          <p class="inline {{ if eq .Title "Software" }} underline decoration-2 decoration-sky-500 {{ end }}">
+            <a href="{{ .Site.BaseURL }}/software">Software</a>
+          </p>
+        </div>
       </div>
     </div>
     <div class="flex flex-col space-y-1.5 text-sm pb-4 text-white block md:hidden">
@@ -56,6 +61,11 @@
       <div class="inline px-3 py-2 rounded-md hover:bg-gray-700 w-fit">
         <p class="inline {{ if eq .Title "Robots" }} underline decoration-2 decoration-sky-500 {{ end }}">
           <a href="{{ .Site.BaseURL }}/robots">Our Robots</a>
+        </p>
+      </div>
+      <div class="inline px-3 py-2 rounded-md hover:bg-gray-700 w-fit">
+        <p class="inline {{ if eq .Title "Software" }} underline decoration-2 decoration-sky-500 {{ end }}">
+          <a href="{{ .Site.BaseURL }}/software">Software</a>
         </p>
       </div>
     </div>
