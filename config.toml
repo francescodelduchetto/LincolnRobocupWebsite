@@ -1,5 +1,6 @@
 #baseURL = '//localhost'
 baseURL = 'https://francescodelduchetto.github.io/LincolnRobocupWebsite/'
+canonifyURLS = true
 languageCode = 'en-gb'
-title = 'My New Hugo Site'
+title = 'LCASTOR website'
 theme = 'lincoln_robocup_theme'
