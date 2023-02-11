@@ -9,6 +9,10 @@ module.exports = {
         "body" : ["Poppins"],
       },
     },
+    listStyleType: {
+      square: 'square',
+      roman: 'upper-roman',
+    }
   },
   plugins: [],
 }
