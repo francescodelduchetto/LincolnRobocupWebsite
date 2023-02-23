@@ -16,11 +16,11 @@ draft: false
 | :----: | :----: | :----: |
 |![](/riccardo.png)| |![](/leonardo.jpeg)|
 | [Riccardo Polvara](https://staff.lincoln.ac.uk/f65aae87-dc86-4c92-b0ea-ab120ee3a540) | | [Leonardo Guevara](https://staff.lincoln.ac.uk/a304664e-6445-4f1e-b8ad-74fa88abc715) |
-|![](/default.jpg)| |![](/default.jpg)|
+|![](/matt.png)| |![](/default.jpg)|
 | Matthew Story | |Karoline Heiwolt |
 |![](/default.jpg)| |![](/default.jpg)|
 | Jacob Swindell | |Nikolaus Wagner |
-|![](/default.jpg)| |![](/default.jpg)|
+|![](/alex.png)| |![](/luca.png)|
 | Alex Elias | |Luca Castri |
 
 
