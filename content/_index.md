@@ -13,4 +13,13 @@ The LCASTOR team is a team composed of researchers and students from the [Lincol
 The LCASTOR team, was formed in 2022 building from the experience of L-CAS group members participation in previous competitions with the [SPQReL Team](https://sites.google.com/dis.uniroma1.it/spqrel/home).
 
 
-## New video goes here
+## Video Presentation
+
+{{<youtube AgPa2mmv3yM>}}
+
+
+---
+
+The teams is sponsored by the **School of Computer Science, University of Lincoln, UK.**
+
+![SoCS](/SoCS_small.jpg)
