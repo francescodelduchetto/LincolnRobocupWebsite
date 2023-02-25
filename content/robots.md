@@ -8,6 +8,9 @@ draft: false
 The LCASTOR team has extensive experience with deploying social robots to work autonomously in a variety of scenarios and is developing software for multiple robotics platforms.
 
 ## TIAGo
+|  | | |
+| :----: | :----: | :----: | :----: | :----: |
+|![](/tiago1.png)| |![](/tiago2.png)| |![](/tiago3.png)|
 
 
 ## Pepper
@@ -21,4 +24,7 @@ The LCASTOR team has extensive experience with deploying social robots to work a
 |![](/scitos1.png)| |![](/scitos2.jpg)| |![](/scitos3.jpg)|
 
 ## Thorvald
+|  | | |
+| :----: | :----: | :----: | :----: | :----: |
+|![](/thor2.png)| || |![](/thor1.png)|
  
