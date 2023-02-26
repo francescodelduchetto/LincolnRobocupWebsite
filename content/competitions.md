@@ -6,11 +6,12 @@ draft: false
 
 # Competitions Participation
 
+LCASTOR is a new team formed in 2023. However, members of the L-CAS group have participated in past @HOME competitions, i.e.:
 ## ‣ RoboCup 2018 - Montreal, Canada. June 16-22, 2018.
-SPQReL team Robocup@HOME SPL - including Marc Hanheide and Francesco Del Duchetto.
+**SPQReL team Robocup@HOME SPL** - including Marc Hanheide and Francesco Del Duchetto.
 
 ## ‣ RoboCup 2017 - Nagoya, Japan. July 27-31, 2017.      
-SPQReL team Robocup@HOME SPL - including Marc Hanheide.
+**SPQReL team Robocup@HOME SPL** - including Marc Hanheide.
 ### Qualified 3rd place !  
 ![certificate](/nagoya.png)
 
