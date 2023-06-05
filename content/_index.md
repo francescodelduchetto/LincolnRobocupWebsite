@@ -22,9 +22,9 @@ The LCASTOR team, was formed in 2023 building from the experience of L-CAS group
 ---
  <br><br>
 The teams is sponsored by:
-|  | | | | |
-| :----: | :----: | :----: | :----: | :----: |
-| [![SoCS](/lcas_small.png)](https://lcas.lincoln.ac.uk) | &nbsp;&nbsp;&nbsp;&nbsp; | [![SoCS](/SoCS_small.jpg)](https://www.lincoln.ac.uk/socs/) | &nbsp;&nbsp;&nbsp;&nbsp; | [![SoCS](/AgriForwards_small.jpg)](https://agriforwards-cdt.blogs.lincoln.ac.uk/)|
+|  | | | | | | |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| [![LCAS](/lcas_small.png)](https://lcas.lincoln.ac.uk) | &nbsp;&nbsp;&nbsp;&nbsp; | [![CDT](/AgriForwards_small.jpg)](https://agriforwards-cdt.blogs.lincoln.ac.uk/)| &nbsp;&nbsp;&nbsp;&nbsp; | [![Wootzano](/wootzano-small.jpg)](https://www.wootzano.com/) | &nbsp;&nbsp;&nbsp;&nbsp; | [![SoCS](/SoCS_small.jpg)](https://www.lincoln.ac.uk/socs/) |
 <!-- | [School of CS, UoL](https://www.lincoln.ac.uk/socs/) | [L-CAS](https://lcas.lincoln.ac.uk) | [AgriForwards CDT](https://agriforwards-cdt.blogs.lincoln.ac.uk/) | -->
 
  <br><br>
